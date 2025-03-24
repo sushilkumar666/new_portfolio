@@ -26,7 +26,7 @@ const greeting = {
     "I’m a Full Stack Developer with expertise in React, Next.js, TypeScript, and PostgreSQL. Experienced in building scalable, real - time applications with WebSocket and authentication systems.Passionate about writing clean, maintainable code and delivering user- friendly experiences."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/15mvv3dJ7L3_QYFLrUtMsuRO6YTn_MGQI/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/mumbai-university.jpg"),
       subHeader: "Bachelor of Science in Information Technology",
       duration: "September 2019 - April 2022",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
